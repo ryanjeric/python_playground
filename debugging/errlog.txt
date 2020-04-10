@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:/Users/user/Desktop/PROJECTS/PY/debugging/tracebackSample.py", line 4, in <module>
+    raise Exception('This is the err message')
+Exception: This is the err message
