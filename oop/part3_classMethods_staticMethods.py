@@ -41,7 +41,7 @@ class Employee:
 my_date = datetime.date(2020,4,20)
 print(Employee.is_workday(my_date))
 
-emp_1 = Employee('ryan', 'sad', 50000)
+emp_1 = Employee('ryan', 'sasa', 50000)
 emp_2 = Employee('test', 'user', 60000)
 
 emp_str1 = 'John-Doe-70000'

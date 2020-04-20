@@ -13,7 +13,7 @@ class Employee:
         return self.first + ' ' + self.last
 
 
-emp_1 = Employee('ryan', 'sad', 50000)
+emp_1 = Employee('ryan', 'sasa', 50000)
 emp_2 = Employee('test', 'user', 60000)
 
 print(Employee.fullname(emp_1))  # emp1 = self

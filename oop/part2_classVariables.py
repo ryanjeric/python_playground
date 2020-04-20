@@ -24,7 +24,7 @@ class Employee:
 
 
 print(Employee.num_of_emps)
-emp_1 = Employee('ryan','sad',50000)
+emp_1 = Employee('ryan','sasa',50000)
 emp_2 = Employee('test','user',60000)
 
 emp_1.raise_amount = 1.05
